@@ -1,6 +1,6 @@
 ## Sailing Ship
 
-**OOP Classes** for simulating a ship regarding mileage and fuel consumption. The classes Ship, Engine and Tank represent their material equivalents. 
+**OOP Classes** for simulating a ship regarding mileage and fuel consumption. The classes **Ship**, **Engine** and **Tank** represent their material equivalents. 
 
 **Class Tank** is described by its total volume, i.e. the volume in liters the tank is able to store at maximum. Tank also has a member fill level, i.e. the amount of fuel in liters which is currently inside the tank.
 After instantiation of Tank, the fill level of the tank is zero. Class Tank offers a method to fill a given amount of fuel in liters into the tank. 
