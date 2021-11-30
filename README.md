@@ -1,4 +1,4 @@
-# Sailing-ship
+# Sailing Ship
 
 OOP Classes for simulating a ship regarding mileage and fuel consumption. The classes Ship, Engine and Tank represent their material equivalents. 
 
